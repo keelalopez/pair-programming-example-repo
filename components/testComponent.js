@@ -1,3 +1,5 @@
-// Keila created a keila component in her branch. 
 
-mergingConflicts = "Aaron updated this variable";
+// Component to resembre React app 
+
+mergingConflicts = "main variable";
+
